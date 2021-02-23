@@ -1,2 +1,2 @@
-export STEWART="test"
-git config --global core.editor "code"
+sudo export STEWART="test"
+sudo git config --global core.editor "code"
